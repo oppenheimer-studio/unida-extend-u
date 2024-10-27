@@ -1,0 +1,1 @@
+export type ExtensionStatusType = 'nuevo' | 'pendiente' | 'aprobado' | 'rechazado'; // estado
